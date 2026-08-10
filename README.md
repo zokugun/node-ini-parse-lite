@@ -29,7 +29,7 @@ Quick Start
 -----------
 
 ```typescript
-import { type IniResult parseIni } from '@zokugun/ini-parse-lite';
+import { type IniResult, parseIni } from '@zokugun/ini-parse-lite';
 
 function runSectionExample(): void {
 	const iniString = `
