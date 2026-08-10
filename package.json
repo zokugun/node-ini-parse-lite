@@ -98,5 +98,9 @@
 		"@zokugun/cli-utils": true,
 		"fsevents": true
 	},
-	"keywords": []
+	"keywords": [
+		"ini",
+		"parse",
+		"parser"
+	]
 }
